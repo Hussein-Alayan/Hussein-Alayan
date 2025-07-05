@@ -21,26 +21,29 @@ I’m enrolled in **[SE FACTORY](https://www.sefactory.io/fse)**, building up my
 - **Laravel**
 ---
 
-## 🚀 Most Recent Project — Masarak
+---
 
-> A smart cinema booking platform built with PHP, MySQL, and Vanilla JS.
+## 🤖 Most Recent Project — AI Job Search Assistant
 
-🎯 **Features**:
-- Browse available movies and showtimes  
-- Reserve seats and complete bookings  
-- Real-time seat availability and admin dashboard  
-- Built following MVC architecture and RESTful APIs
+> A smart AI-powered platform that analyzes your CV and suggests matching job titles, then finds real jobs online.
 
-🛠 **Tech Stack**:
-- PHP • MySQL • JavaScript • HTML/CSS  
-- Bootstrap • Custom MVC Pattern
+🧠 **Key Features**:
+- Upload a CV (PDF) and extract key skills & experiences using AI  
+- Generate tailored job title suggestions  
+- Fetch live job listings from platforms like LinkedIn & Bayt  
+- Filters for location, experience, job type, etc.
 
-🔗 **Project Preview**: _Coming Soon_  
-📁 **Codebase**: _Private during development_
+⚙️ **Tech Stack**:
+- Python • Streamlit • PyMuPDF • Azure OpenAI / Gemini  
+- Google Custom Search API • HTML/CSS (UI planning with Figma)
+
+🚧 **Status**: Done  
+📁 **Codebase**: https://github.com/Hussein-Alayan/masarak
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT1XGzLKnYaeGpD63a/giphy.gif" width="600" alt="Movie Booking GIF" />
+  <img src="https://media.giphy.com/media/hsCXv4MRW4DLO/giphy.gif" width="600" alt="AI Job Assistant GIF"/>
 </p>
+
 
 ## 📫 Reach Me  
 ✉️ alayen.hussein@gmail.com
