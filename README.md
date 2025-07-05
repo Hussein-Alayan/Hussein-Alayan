@@ -41,7 +41,7 @@ I’m enrolled in **[SE FACTORY](https://www.sefactory.io/fse)**, building up my
 📁 **Codebase**: https://github.com/Hussein-Alayan/masarak
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hsCXv4MRW4DLO/giphy.gif" width="600" alt="AI Job Assistant GIF"/>
+  <img src="https://media.giphy.com/media/3o7aD6vG3HNSwc5Lmm/giphy.gif" width="600" alt="AI Job Assistant GIF"/>
 </p>
 
 
