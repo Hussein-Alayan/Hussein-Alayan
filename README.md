@@ -7,7 +7,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&speed=30&center=true&vCenter=true&width=1000&lines=Good%20software%20isn%E2%80%99t%20written%3B%20it%E2%80%99s%20engineered.;—%20Kent%20Beck" alt="Typing SVG Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&speed=20&center=true&vCenter=true&width=1000&lines=Good%20software%20isn%E2%80%99t%20written%3B%20it%E2%80%99s%20engineered.;—%20Kent%20Beck" alt="Typing SVG Quote" />
 </p>
 
 
