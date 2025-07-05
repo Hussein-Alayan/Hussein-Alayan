@@ -1,38 +1,38 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJnMXVmYWQ4cTdpa2J4cjhjZTQxemRuaW5ma21sMm1lOTEyNmYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q/FQyQEYd0KlYQ/giphy.gif" width="300" alt="cool coding gif"/>
-</div>
-
----
-
-### 👋 Hey there! I'm Hussein
-
-I'm a Computer Science graduate from Lebanon 🇱🇧, passionate about building intelligent and user-friendly web applications.
-
-- 🎓 Double major: CS + Administrative Informatics
-- 🏫 Currently a student at SE Factory Bootcamp      
-- 🌱 Learning React to sharpen my frontend skills  
-- 🛠️ Loves working with PHP, Python, and JavaScript
-
----
-
-### 🛠️ My Languages & Frameworks
-
-<div align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-</div>
-
 ---
 
 ### 🚀 Projects
 
 - 🤖 [Masarak – AI Job Matcher](https://github.com/yourusername/masarak)  
   Upload your CV, get AI-based job suggestions, and search LinkedIn/Bayt with smart filters.
+
+---
+
+# 📊 Metrics [<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=280144&theme=dark" alt="" align="right" width="190" height="41">](https://www.producthunt.com/posts/github-metrics?utm_source=badge-featured&utm_medium=badge&utm_source=badge-github-metrics)
+
+[![Continuous integration](https://github.com/lowlighter/metrics/actions/workflows/ci.yml/badge.svg)](https://github.com/lowlighter/metrics/actions/workflows/ci.yml)
+
+Generate metrics that can be embedded everywhere, including your GitHub profile readme! Supports users, organizations, and even repositories.
+
+<table>
+  <tr>
+    <th align="center">For user accounts</th>
+    <th align="center">For organization accounts</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.classic.svg">
+    </td>
+    <td align="center">
+      <img alt="" width="400" src="https://github.com/lowlighter/metrics/blob/examples/metrics.organization.svg">
+    </td>
+  </tr>
+  <tr>
+    <th colspan="2" align="center">
+      <h3><a href="/README.md#-plugins">🧩 Customizable with 47 plugins and 335 options!</a></h3>
+    </th>
+  </tr>
+  <!-- …you can keep the rest of the plugins table here… -->
+</table>
 
 ---
 
