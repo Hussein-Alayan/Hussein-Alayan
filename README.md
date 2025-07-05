@@ -21,8 +21,6 @@ I’m enrolled in **[SE FACTORY](https://www.sefactory.io/fse)**, building up my
 - **Laravel**
 ---
 
----
-
 ## 🤖 Most Recent Project — AI Job Search Assistant
 
 > A smart AI-powered platform that analyzes your CV and suggests matching job titles, then finds real jobs online.
