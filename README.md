@@ -19,6 +19,28 @@ I’m enrolled in **[SE FACTORY](https://www.sefactory.io/fse)**, building up my
 ## 🌱 Learning  
 - **React**  
 - **Laravel**
+---
+
+## 🚀 Most Recent Project — Masarak
+
+> A smart cinema booking platform built with PHP, MySQL, and Vanilla JS.
+
+🎯 **Features**:
+- Browse available movies and showtimes  
+- Reserve seats and complete bookings  
+- Real-time seat availability and admin dashboard  
+- Built following MVC architecture and RESTful APIs
+
+🛠 **Tech Stack**:
+- PHP • MySQL • JavaScript • HTML/CSS  
+- Bootstrap • Custom MVC Pattern
+
+🔗 **Project Preview**: _Coming Soon_  
+📁 **Codebase**: _Private during development_
+
+<p align="center">
+  <img src="https://media.giphy.com/media/xT1XGzLKnYaeGpD63a/giphy.gif" width="600" alt="Movie Booking GIF" />
+</p>
 
 ## 📫 Reach Me  
 ✉️ alayen.hussein@gmail.com
