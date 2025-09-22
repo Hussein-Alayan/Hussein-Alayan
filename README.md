@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJnMXVmYWQ4cTdpa2J4cjhjZTQxemRuaW5ma21sMm1lOTEyNmYyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FQyQEYd0KlYQ/giphy.gif" alt="Welcome GIF" />
 </p>
 
@@ -10,40 +10,43 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&speed=20&center=true&vCenter=true&width=1000&lines=Good%20software%20isn%E2%80%99t%20written%3B%20it%E2%80%99s%20engineered.;—%20Kent%20Beck" alt="Typing SVG Quote" />
 </p>
 
+---
+
+## 🔭 Current
+I graduated from **[SE FACTORY](https://www.sefactory.io/fse)** and I'm building full-stack products focused on automation and AI.
 
 ---
 
-## 🔭 Current  
-I’m enrolled in **[SE FACTORY](https://www.sefactory.io/fse)**, building up my full‑stack skills.
+## 🤖 Most Recent Project — Slotify
 
-## 🌱 Learning  
-- **React**  
-- **Laravel**
+**Slotify** is a B2B SaaS appointment and resource management platform that automates bookings and client communication using AI.
+
+🔗 [View Repository](https://github.com/Hussein-Alayan/Slotify)
+
 ---
+**Key features**
+- WhatsApp AI assistant (local LLM) for booking and client interactions.  
+- Dynamic staff and resource assignment with smart handling of cancellations and conflicts (clients notified via WhatsApp).  
+- AI real-time call assistant for bookings, Q&A, and instant support.  
+- n8n for orchestration and webhook handling (provider → backend flows).  
+- Scalable multi-tenant architecture with centralized credential management.
 
-## 🤖 Most Recent Project — AI Job Search Assistant
-
-> A smart AI-powered platform that analyzes your CV and suggests matching job titles, then finds real jobs online.
-
-🧠 **Key Features**:
-- Upload a CV (PDF) and extract key skills & experiences using AI  
-- Generate tailored job title suggestions  
-- Fetch live job listings from platforms like LinkedIn & Bayt  
-- Filters for location, experience, job type, etc.
-
-⚙️ **Tech Stack**:
-- Python • Streamlit • PyMuPDF • Azure OpenAI / Gemini  
-- Google Custom Search API • HTML/CSS (UI planning with Figma)
-
-🚧 **Status**: Done  
-📁 **Codebase**: https://github.com/Hussein-Alayan/masarak
+**Tech stack (Slotify)**  
+- Frontend: Next.js, TypeScript, Tailwind CSS  
+- Backend: Laravel (main API), FastAPI (AI microservices / webhook adapters)  
+- Database: PostgreSQL  
+- AI: Ollama (local LLM, e.g., Mistral / LLaMA variants), Gemini (AI streaming)  
+- Automation & Integration: n8n, WhatsApp (Meta Cloud API / Twilio)  
+- Deployment & Dev: Docker, Vercel (frontend), Git, Postman  
 
 ---
 
-## 📫 Reach Me  
+## 📫 Reach Me
 ✉️ alayen.hussein@gmail.com
 
-## ⚡ Fun Fact  
+---
+
+## ⚡ Fun Fact
 I absolutely adore cats! 🐱
 
 ---
@@ -64,18 +67,18 @@ I absolutely adore cats! 🐱
 
 <div align="left">
 
-<strong>🎨 Front‑end</strong><br/>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+<strong>🎨 Front-end</strong><br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+<a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin:10px"/>
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin:10px"/>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin:10px"/>
 </a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin:10px"/>
@@ -83,18 +86,18 @@ I absolutely adore cats! 🐱
 
 ---
 
-<strong>🛠️ Back‑end & Databases</strong><br/>
+<strong>🛠️ Back-end & Databases</strong><br/>
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" style="margin:10px"/>
 </a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="margin:10px"/>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="FastAPI (Python)" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin:10px"/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin:10px"/>
 </a>
 
 ---
@@ -106,39 +109,33 @@ I absolutely adore cats! 🐱
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin:10px"/>
+<a href="https://vercel.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin:10px"/>
+<a href="https://n8n.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/saadfarhan1190/n8n-logo/master/logo.svg" alt="n8n" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" style="margin:10px"/>
+<a href="https://ollama.ai/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/ollama/brand/main/ollama-icon-square.png" alt="Ollama" width="40" height="40" style="margin:10px"/>
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="40" height="40" style="margin:10px"/>
 </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin:10px"/>
-</a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="margin:10px"/>
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Design/figma.svg" alt="Figma" width="40" height="40" style="margin:10px"/>
 </a>
 
 ---
 
 <strong>📦 Other & Libraries</strong><br/>
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" style="margin:10px"/>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" style="margin:10px"/>
+<a href="https://www.twilio.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/twilio/twilio-icon.svg" alt="Twilio" width="40" height="40" style="margin:10px"/>
 </a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" style="margin:10px"/>
-</a>
-<a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40" style="margin:10px"/>
-</a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" style="margin:10px"/>
+<a href="https://developers.facebook.com/docs/whatsapp" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/main/images/svg/facebook.svg" alt="WhatsApp API" width="40" height="40" style="margin:10px"/>
 </a>
 
 </div>
