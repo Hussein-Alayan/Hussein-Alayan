@@ -6,8 +6,9 @@
 <h3 align="center">A passionate Software Engineer from Lebanon</h3>
 
 ---
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&speed=20&center=true&vCenter=true&width=1000&lines=Good%20software%20isn%E2%80%99t%20written%3B%20it%E2%80%99s%20engineered.;—%20Kent%20Beck" alt="Typing SVG Quote" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&speed=20&center=true&vCenter=true&width=1000&lines=Good%20software%20isn't%20written%2C%20it%20is%20engineered%20-%20Kent%20Beck" alt="Typing SVG Quote" />
 </p>
 
 ---
@@ -24,20 +25,22 @@ I graduated from **[SE FACTORY](https://www.sefactory.io/fse)** and I'm building
 🔗 [View Repository](https://github.com/Hussein-Alayan/Slotify)
 
 ---
+
 **Key features**
-- WhatsApp AI assistant (local LLM) for booking and client interactions.  
-- Dynamic staff and resource assignment with smart handling of cancellations and conflicts (clients notified via WhatsApp).  
-- AI real-time call assistant for bookings, Q&A, and instant support.  
-- n8n for orchestration and webhook handling (provider → backend flows).  
-- Scalable multi-tenant architecture with centralized credential management.
+- WhatsApp AI assistant (local LLM) for booking and client interactions  
+- Dynamic staff & resource assignment with smart cancellation handling  
+- AI call assistant for bookings, Q&A, and instant support  
+- n8n for orchestration & webhooks  
+- Multi-tenant architecture, centralized credentials  
+- Automated customer notifications (WhatsApp)
 
 **Tech stack (Slotify)**  
 - Frontend: Next.js, TypeScript, Tailwind CSS  
-- Backend: Laravel (main API), FastAPI (AI microservices / webhook adapters)  
-- Database: PostgreSQL  
-- AI: Ollama (local LLM, e.g., Mistral / LLaMA variants), Gemini (AI streaming)  
-- Automation & Integration: n8n, WhatsApp (Meta Cloud API / Twilio)  
-- Deployment & Dev: Docker, Vercel (frontend), Git, Postman  
+- Backend: Laravel (API), FastAPI (AI microservices)  
+- DB: PostgreSQL  
+- AI: Ollama (Mistral / LLaMA), Gemini streaming  
+- Automation: n8n, WhatsApp Cloud API / Twilio  
+- Deployment: Docker, Vercel, Git, Postman
 
 ---
 
@@ -47,16 +50,16 @@ I graduated from **[SE FACTORY](https://www.sefactory.io/fse)** and I'm building
 ---
 
 ## ⚡ Fun Fact
-I absolutely adore cats! 🐱
+I absolutely adore cats 🐱
 
 ---
 
 <h3 align="left">🔗 Connect with me</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/hussein-alayan-613072258" target="_blank" rel="noreferrer" style="margin-right:15px">
+  <a href="https://linkedin.com/in/hussein-alayan-613072258" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/hussein_alayan" target="_blank" rel="noreferrer" style="margin-right:15px">
+  <a href="https://instagram.com/hussein_alayan" target="_blank" rel="noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
@@ -81,7 +84,7 @@ I absolutely adore cats! 🐱
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" title="PHP"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" title="Laravel"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python / FastAPI"/>
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" title="Python"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" title="Java"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" title="C"/>
 </p>
@@ -98,11 +101,10 @@ I absolutely adore cats! 🐱
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" title="Git"/>
 </p>
 
-
 ---
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein-alayan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein-alayan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hussein-alayan&show_icons=true&locale=en&layout=compact&v=1" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hussein-alayan&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
 </p>
