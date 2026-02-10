@@ -18,29 +18,37 @@ I graduated from **[SE FACTORY](https://www.sefactory.io/fse)** and I'm building
 
 ---
 
-## 🤖 Most Recent Project — Slotify
+## 🤖 Most Recent Projects
 
-**Slotify** is a B2B SaaS appointment and resource management platform that automates bookings and client communication using AI.
+### Slotify – B2B Appointment & Resource Management Platform
+I developed **Slotify**, a platform that automates bookings and client communication using AI.
+
+**What I did:**  
+- Built a WhatsApp AI assistant (local LLM) to handle bookings, client inquiries, and scheduling conflicts.  
+- Implemented dynamic staff & resource assignment with smart cancellation handling.  
+- Developed an AI call assistant for bookings, Q&A, and instant support.  
+- Automated notifications and orchestrated workflows using n8n.  
+- Designed a multi-tenant architecture with centralized credentials for clients.  
+
+**Tech stack:** Next.js, TypeScript, Tailwind CSS, Laravel, FastAPI, PostgreSQL, Ollama (Mistral / LLaMA), Gemini streaming, n8n, Docker, WhatsApp Cloud API / Twilio, Vercel.
 
 🔗 [View Repository](https://github.com/Hussein-Alayan/Slotify)
 
 ---
 
-**Key features**
-- WhatsApp AI assistant (local LLM) for booking and client interactions  
-- Dynamic staff & resource assignment with smart cancellation handling  
-- AI call assistant for bookings, Q&A, and instant support  
-- n8n for orchestration & webhooks  
-- Multi-tenant architecture, centralized credentials  
-- Automated customer notifications (WhatsApp)
+### Novuim – Performance Optimizations & Improvements
+I optimized Novuim to improve dashboard and notification system performance.  
 
-**Tech stack (Slotify)**  
-- Frontend: Next.js, TypeScript, Tailwind CSS  
-- Backend: Laravel (API), FastAPI (AI microservices)  
-- DB: PostgreSQL  
-- AI: Ollama (Mistral / LLaMA), Gemini streaming  
-- Automation: n8n, WhatsApp Cloud API / Twilio  
-- Deployment: Docker, Vercel, Git, Postman
+**What I did:**  
+- Implemented notification pagination with infinite scroll, reducing memory usage by ~95% for users with large notification backlogs.  
+- Optimized dashboard data loading with parallel queries (Promise.all), reducing load time by ~40%.  
+- Added intelligent query caching with TanStack Query, eliminating redundant API calls.  
+- Implemented query prefetching for smoother UX and faster initial render.  
+- Engineered exponential backoff with jitter for WebSocket reconnections to reduce server load.  
+- Optimized React rendering with useCallback to prevent unnecessary component re-renders.  
+- Added IntersectionObserver-based infinite scroll triggers to avoid layout thrashing.  
+- Implemented fire-and-forget background sync for notifications to keep UI responsive.  
+- Optimized database queries with server-side aggregations and batch processing for bulk operations.
 
 ---
 
